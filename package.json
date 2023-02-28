@@ -13,9 +13,9 @@
     "express": "~4.16.0",
     "fluent-ffmpeg": "^2.1.2",
     "fs-extra": "^8.1.0",
-    "hbs": "~4.0.1",
+    "hbs": "~4.2.0",
     "http-errors": "~1.6.2",
-    "jimp": "^0.8.5",
+    "jimp": "^0.22.7",
     "morgan": "~1.9.0",
     "multiparty": "^4.2.1"
   }
